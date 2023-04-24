@@ -29,6 +29,7 @@
 			[".cxx"] = "Sources",
 			[".c++"] = "Sources",
 			[".dylib"] = "Frameworks",
+			[".so"] = "Frameworks",
 			[".bundle"] = "Frameworks",
 			[".framework"] = "Frameworks",
 			[".tbd"] = "Frameworks",
